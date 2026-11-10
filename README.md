@@ -7,7 +7,7 @@ https://ocr.codereview.club. Repo này chỉ chứa bản cài; mã nguồn khô
 
 1. Tải `OCR-Client_<phiên bản>_aarch64.dmg` ở trang [Releases](../../releases/latest).
 2. Mở file `.dmg`, kéo **OCR Client** vào **Applications**.
-3. Lần đầu mở: chuột phải vào app → **Open** (app chưa được ký bởi Apple).
+3. Mở app từ Launchpad hoặc Applications (app đã ký Developer ID và được Apple notarize).
 4. Vào **Cài đặt**, dán API key dạng `ocrk_…` (xin từ quản trị viên dịch vụ).
 
 ## Dùng
